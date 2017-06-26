@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1498422932 source:c:\users\user\documents\facultad\programacion i\practica paracial v2\abm.c
+	<stdio.h>
+	<stdlib.h>
+	"ABM.h"
+	"funciones.h"
+	"ArrayList.h"
+
+1498422912 c:\users\user\documents\facultad\programacion i\practica paracial v2\abm.h
+	"ArrayList.h"
+
+1496007140 c:\users\user\documents\facultad\programacion i\practica paracial v2\funciones.h
+
+1498236674 c:\users\user\documents\facultad\programacion i\practica paracial v2\arraylist.h
+
+1498422912 source:c:\users\user\documents\facultad\programacion i\practica paracial v2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496264940 source:c:\users\user\documents\facultad\programacion i\practica paracial v2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1498419563 source:c:\users\user\documents\facultad\programacion i\practica paracial v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1498422912 source:c:\users\user\documents\facultad\programacion i\practica paracial v2 - copia\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498236674 c:\users\user\documents\facultad\programacion i\practica paracial v2 - copia\arraylist.h
+
+1496264940 source:c:\users\user\documents\facultad\programacion i\practica paracial v2 - copia\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1496007140 c:\users\user\documents\facultad\programacion i\practica paracial v2 - copia\funciones.h
+
+1498436901 source:c:\users\user\documents\facultad\programacion i\practica paracial v2 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1498445546 source:c:\users\user\documents\facultad\programacion i\practica paracial v2 - copia\abm.c
+	<stdio.h>
+	<stdlib.h>
+	"ABM.h"
+	"funciones.h"
+	"ArrayList.h"
+
+1498425539 c:\users\user\documents\facultad\programacion i\practica paracial v2 - copia\abm.h
+	"ArrayList.h"
+
+1498474060 source:c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2 - copia\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498474060 c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2 - copia\arraylist.h
+
+1498474060 source:c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2 - copia\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1498474060 c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2 - copia\funciones.h
+
+1498474060 source:c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1498496628 source:c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2 - copia\abm.c
+	<stdio.h>
+	<stdlib.h>
+	"ABM.h"
+	"funciones.h"
+	"ArrayList.h"
+
+1498495769 c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2 - copia\abm.h
+	"ArrayList.h"
+
+1498474060 source:c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498474060 c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2\arraylist.h
+
+1498474060 source:c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1498474060 c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2\funciones.h
+
+1498504224 source:c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1498504224 source:c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2\abm.c
+	<stdio.h>
+	<stdlib.h>
+	"ABM.h"
+	"funciones.h"
+	"ArrayList.h"
+
+1498504224 c:\users\jmallegue\downloads\practica paracial v2 - copia-20170626t145833z-001\practica paracial v2\abm.h
+	"ArrayList.h"
+

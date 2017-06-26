@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1498430434 source:c:\users\fofy\documents\utn\abm-arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498306494 c:\users\fofy\documents\utn\abm-arraylist\arraylist.h
+
+1498453940 source:c:\users\fofy\documents\utn\abm-arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"lib.h"
+	"utn.h"
+
+1498445528 c:\users\fofy\documents\utn\abm-arraylist\lib.h
+	"ArrayList.h"
+
+1494709264 c:\users\fofy\documents\utn\abm-arraylist\utn.h
+
+1498431348 source:c:\users\fofy\documents\utn\abm-arraylist\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1498453818 source:c:\users\fofy\documents\utn\abm-arraylist\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ArrayList.h"
+	"lib.h"
+	"utn.h"
+
+1498439726 source:c:\users\jmallegue\downloads\trabajos-practicos-i-master\tp 4\abm-arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498439726 c:\users\jmallegue\downloads\trabajos-practicos-i-master\tp 4\abm-arraylist\arraylist.h
+
+1498439726 source:c:\users\jmallegue\downloads\trabajos-practicos-i-master\tp 4\abm-arraylist\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ArrayList.h"
+	"lib.h"
+	"utn.h"
+
+1498439726 c:\users\jmallegue\downloads\trabajos-practicos-i-master\tp 4\abm-arraylist\lib.h
+	"ArrayList.h"
+
+1498439726 c:\users\jmallegue\downloads\trabajos-practicos-i-master\tp 4\abm-arraylist\utn.h
+
+1498439726 source:c:\users\jmallegue\downloads\trabajos-practicos-i-master\tp 4\abm-arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayList.h"
+	"lib.h"
+	"utn.h"
+
+1498439726 source:c:\users\jmallegue\downloads\trabajos-practicos-i-master\tp 4\abm-arraylist\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
