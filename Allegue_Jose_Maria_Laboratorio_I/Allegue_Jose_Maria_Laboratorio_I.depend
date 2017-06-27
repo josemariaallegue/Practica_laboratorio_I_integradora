@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1498524501 source:/home/alumno/Allegue_Jose_Maria_Laboratorio_I/Allegue_Jose_Maria_Laboratorio_I/ABM.c
+	<stdio.h>
+	<stdlib.h>
+	"ABM.h"
+	"funciones.h"
+	"ArrayList.h"
+
+1498524536 /home/alumno/Allegue_Jose_Maria_Laboratorio_I/Allegue_Jose_Maria_Laboratorio_I/ABM.h
+	"ArrayList.h"
+
+1498517928 /home/alumno/Allegue_Jose_Maria_Laboratorio_I/Allegue_Jose_Maria_Laboratorio_I/ArrayList.h
+
+1498474060 /home/alumno/Allegue_Jose_Maria_Laboratorio_I/Allegue_Jose_Maria_Laboratorio_I/funciones.h
+
+1498522085 source:/home/alumno/Allegue_Jose_Maria_Laboratorio_I/Allegue_Jose_Maria_Laboratorio_I/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1498474060 source:/home/alumno/Allegue_Jose_Maria_Laboratorio_I/Allegue_Jose_Maria_Laboratorio_I/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1498523907 source:/home/alumno/Allegue_Jose_Maria_Laboratorio_I/Allegue_Jose_Maria_Laboratorio_I/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ABM.h"
+	"funciones.h"
+	"ArrayList.h"
+
